@@ -89,17 +89,3 @@ Flow:
 > Tech: *Next.js, Tailwind, API integration*
 
 ---
-
-## 📈 GitHub Performance
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farelevan&show_icons=true&theme=radical&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farelevan&layout=compact&theme=radical&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=farelevan&theme=radical&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=farelevan&theme=dracula&
